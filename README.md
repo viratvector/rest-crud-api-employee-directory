@@ -1,7 +1,8 @@
 # Employee Directory REST API
 
 This project is a simple RESTful API built with Spring Boot to manage employee information. It allows users to perform Create, Read, Update, and Delete (CRUD) operations on employee records.
-<img width="600" alt="Screenshot 2025-05-01 at 3 25 40 AM" src="https://github.com/user-attachments/assets/ef629a1a-a5ca-42ce-8aaa-5a79d4291b36" />
+
+<img width="900" alt="Screenshot 2025-05-01 at 3 25 40 AM" src="https://github.com/user-attachments/assets/ef629a1a-a5ca-42ce-8aaa-5a79d4291b36" />
 
 
 ## Technologies Used
